@@ -1,3 +1,2 @@
 print('helloworld')
-a=5
-print(a)
+print('Supasit')
